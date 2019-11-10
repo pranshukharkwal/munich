@@ -24,6 +24,9 @@ Instruction for citizens:
 a. The normal citizen can raise,delete and view existing tickets without
 the hassle of logging in and out several times or even without the hassle of
 registering to the system.
+Also, we have provided an auto location feature which fetches your location data
+directly, without you having to enter anything explicitly
+
 
 b. You get to choose between two options
 	i)  Open a new ticket
